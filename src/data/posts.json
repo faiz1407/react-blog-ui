@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Mastering React Components & Props",
+    "category": "React",
+    "excerpt": "Learn how to build reusable UI components and pass data efficiently using props in React.",
+    "author": "Faizan Parihar",
+    "date": "October 18, 2026"
+  },
+  {
+    "id": 2,
+    "title": "CSS Flexbox & Grid Masterclass",
+    "category": "CSS",
+    "excerpt": "A comprehensive guide to building modern, responsive layouts using CSS Flexbox and Grid.",
+    "author": "EakPustak Team",
+    "date": "October 15, 2026"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript ES6+ Essential Features",
+    "category": "JavaScript",
+    "excerpt": "Explore arrow functions, destructuring, spread operators, and async/await in modern JS.",
+    "author": "Web Dev Lead",
+    "date": "October 12, 2026"
+  },
+  {
+    "id": 4,
+    "title": "Building Responsive Web Apps",
+    "category": "Frontend",
+    "excerpt": "Tips and tricks for ensuring your web applications look flawless across all screen sizes.",
+    "author": "Faizan Parihar",
+    "date": "October 10, 2026"
+  }
+]
